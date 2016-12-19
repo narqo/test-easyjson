@@ -1,0 +1,6 @@
+hash: f1162df095d61c26b9e7213890b0e045587c5b84a6392fcc6c01b4b0dee72a74
+updated: 2016-12-20T00:44:37.727606603+03:00
+imports:
+- name: github.com/mailru/easyjson
+  version: 9d6630dc8c577b56cb9687a9cf9e8578aca7298a
+testImports: []

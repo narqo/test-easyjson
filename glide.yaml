@@ -1,0 +1,3 @@
+package: github.com/narqo/test-easyjson
+import:
+- package: github.com/mailru/easyjson
