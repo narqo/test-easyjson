@@ -8,7 +8,7 @@ PKG := github.com/narqo/test-easyjson
 all:
 
 generate: bin/easyjson
-	go generate -x $(PKG)/person
+	$(GO) generate -x $(PKG)/person
 
 bin/easyjson:
 	$(GO) build -i -o $(@) github.com/mailru/easyjson/easyjson
